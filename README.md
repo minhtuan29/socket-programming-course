@@ -12,7 +12,8 @@ nó sẽ chặn lại các cuộc gọi từ client cho đến khi có yêu cầ
 Đối với Client :  
 dùng phương thức connect(IP, PORT) để kết nối tới server  
 
-![Capture](https://user-images.githubusercontent.com/86332370/162334708-1442c39e-a94e-4464-9810-5d89989882a0.PNG)  
+![Capture](https://user-images.githubusercontent.com/86332370/162412078-66ab5301-ffbd-445a-8996-946bf48d82d3.PNG)
+ 
 
 - bước 3. Server nghe thấy lời gọi connect() của client, nó tiến hành accept()
 - bước 4. cả 2 trao đổi thông tin qua hàm nhận và hàm gửi
