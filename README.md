@@ -7,7 +7,8 @@ Các phương thức quản lý một socket :
 Đối với server :  
 Liên kết Socket với {IP và Port} bằng phương thức Bind : mySocket.bind( IP, Port),  
 Cho Socket listen() để kết nối, socket sẽ chờ phải hồi liên tục cách đều N milisecond và mở ra một luồng mới : Socket.listen(N)  
-Cho Socket accecpt() để đóng kết nối lại nhưng vẫn đang chờ, khi nào nghe có client kết nối tới thì mới mở ra
+Cho Socket accecpt() kết nối các các socket trên hàng chờ. Nếu không có socket nào trên hàng chờ đồng thời nó đang đang ở trạng thái blockable, 
+nó sẽ chặn lại các cuộc gọi từ client cho đến khi có yêu cầu kết nối từ client.
 Đối với Client :  
 dùng phương thức connect(IP, PORT) để kết nối tới server  
 
