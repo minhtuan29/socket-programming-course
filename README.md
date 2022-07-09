@@ -16,4 +16,8 @@ dùng phương thức connect(IP, PORT) để kết nối tới server
  
 
 - bước 3. Server nghe thấy lời gọi connect() của client, nó tiến hành accept()
-- bước 4. cả 2 trao đổi thông tin qua hàm nhận và hàm gửi
+- bước 4. cả 2 trao đổi thông tin qua hàm nhận và hàm gửi  
+  
+  
+![12312312323](https://user-images.githubusercontent.com/86332370/178084626-29a0d6e3-5817-485e-b9a1-0db40b1b8fb6.PNG)
+![345345345](https://user-images.githubusercontent.com/86332370/178084631-0fc596f5-90d1-4522-a75c-3ad7c31b28c8.PNG)
