@@ -28,3 +28,8 @@ dùng phương thức connect(IP, PORT) để kết nối tới server
   
 ![12312312323](https://user-images.githubusercontent.com/86332370/178084626-29a0d6e3-5817-485e-b9a1-0db40b1b8fb6.PNG)
 ![345345345](https://user-images.githubusercontent.com/86332370/178084631-0fc596f5-90d1-4522-a75c-3ad7c31b28c8.PNG)
+
+![Untitled](https://user-images.githubusercontent.com/86332370/178085456-464a5bc6-83cb-4dc3-9282-4ff7aeba4b05.png)  
+![345345](https://user-images.githubusercontent.com/86332370/178085495-204293e7-e19c-41b3-8a70-3ffca497a8fe.PNG)  
+![4674675676575](https://user-images.githubusercontent.com/86332370/178085530-1d65df00-5a98-4d26-9aa3-3042609144aa.PNG)
+
