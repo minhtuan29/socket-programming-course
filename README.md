@@ -5,7 +5,7 @@ Các phương thức quản lý một socket :
 - bước 1. Khởi tạo socket : new Socket : cung cấp gồm { loại IP, loại protocol : ví dụ IPv4, IPv6, TCP protocol, HTTP protocol, UDP Protocol}
 ```
 new Connection(  new IP (127.x.y.z, IPv4)
-		, 80
+		, 443
 		, TCP_HTTPS
 	      ) 
 
